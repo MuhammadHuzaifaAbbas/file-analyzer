@@ -1,0 +1,17 @@
+==========================
+=========================
+Name :ali
+==========================
+Reg.no:2025-cs-789
+Name :huzaifa
+Subject:dld
+Mark :45
+Grade:F
+
+Subject:phy
+Mark :90
+Grade:A+
+
+Total:135
+Average:67.5
+==========================

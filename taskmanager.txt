@@ -1,0 +1,35 @@
+*Id:1
+*Title:project
+*Description:to do list
+*Priority:medium
+*status:pending
+*Created at:24-07-2026 01:05:23 PM 
+<=========================>
+*Id:2
+*Title:student managment system
+*Description:oop related in c++
+*Priority:medium
+*status:completed
+*Created at:24-07-2026 01:06:15 PM 
+<=========================>
+*Id:3
+*Title:abc
+*Description:jdcsygautgf
+*Priority:ds
+*status:sdf
+*Created at:26-07-2026 11:02:39 PM 
+<=========================>
+*Id:4
+*Title:Metting 
+*Description:related to devstackvibes
+*Priority:medium
+*status:pending
+*Created at:04-10-2026 10:51:01 AM 
+<=========================>
+*Id:4
+*Title:Learning
+*Description:seftware engineering slides 
+*Priority:high
+*status:pending
+*Created at:04-10-2026 10:51:42 AM 
+<=========================>
